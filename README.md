@@ -5,4 +5,4 @@ to appear
 
 here:
 
-https://github.com/boschresearch/ (specific link will follow)
+https://github.com/boschresearch/hybrid_node
